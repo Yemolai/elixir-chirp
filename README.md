@@ -1,4 +1,6 @@
-# Chirp
+# Elixir Chirp
+
+Twitter clone from [demonstration by Chris McCord](https://youtu.be/MZvmYaFkNJI?t=436) updated to use the latest deps versions.
 
 To start your Phoenix server:
 
